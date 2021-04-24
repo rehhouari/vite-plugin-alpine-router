@@ -6,7 +6,7 @@ exports.default = (config = {}) => {
         handleHotUpdate({ file }) {
             console.log(file);
             return [];
-        }
+        },
     };
 };
 //# sourceMappingURL=plugin.js.map
