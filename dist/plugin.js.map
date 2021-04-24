@@ -1,0 +1,1 @@
+{"version":3,"file":"plugin.js","sourceRoot":"","sources":["../src/plugin.ts"],"names":[],"mappings":";;AAIA,kBAAe,CAAC,SAAuB,EAAE,EAAU,EAAE;IACnD,OAAO;QACL,IAAI,EAAE,oBAAoB;QAC7B,eAAe,CAAC,EAAE,IAAI,EAAE;YACvB,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;YAClB,OAAO,EAAE,CAAA;QACR,CAAC;KACD,CAAA;AACH,CAAC,CAAA"}
