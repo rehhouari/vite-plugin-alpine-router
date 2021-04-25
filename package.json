@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-alpine-router",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Alpine Router integration for Vite.js",
   "author": "Rafik El Hadi Houari",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc -p .",
+    "build": "rm -rf dist && tsc -p .",
     "prepare": "yarn build"
   },
   "peerDependencies": {
@@ -24,6 +24,11 @@
   },
   "keywords": [
     "vite",
-    "vite-plugin"
+    "vite-plugin",
+    "alpinejs",
+    "alpine",
+    "alpine-router",
+    "router",
+    "hmr"
   ]
 }
